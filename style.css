@@ -1,0 +1,15 @@
+.bar:hover {
+    fill: rgb(128, 38, 0);
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  svg {
+    background-color: rgb(9, 188, 170);
+  }
+
+  
